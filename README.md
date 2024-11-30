@@ -7,7 +7,7 @@ The aim of the project is to estimate the number of people present on a beach us
 "imgs" folder contains the images and labels of manually annonated images. 
 "metrics.py" contains the function to calculate the MSE and accuracy metrics (Precision, Recall, F1-Score and Accuracy).
 
-To run the code, download the ZIP file and run the "solution_josep.ipynb" file.
+To run the code, download the ZIP file and run the "solution.ipynb" file.
 In the code, you can choose one out of the 3 pre-processing options: Gaussian Blur with Canny edge detection, Laplacian filter, or Histogram equalization.
 
 # Results
