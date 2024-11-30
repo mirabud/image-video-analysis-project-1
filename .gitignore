@@ -1,2 +1,5 @@
 # Ingore .DS_Store from Mac
 .DS_Store
+
+# Ignore __pycache__ folder
+__pycache__/*
